@@ -1,0 +1,65 @@
+{
+  "nav_home": "Home",
+  "@nav_home": {
+    "description": "Label for the Home navigation destination"
+  },
+  "nav_settings": "Settings",
+  "@nav_settings": {
+    "description": "Label for the Settings navigation destination"
+  },
+  "nav_profile": "Profile",
+  "@nav_profile": {
+    "description": "Label for the Profile navigation destination"
+  },
+  "nav_search": "Search",
+  "@nav_search": {
+    "description": "Label for the Search navigation destination"
+  }
+  ,
+  "details": "Details",
+  "languageLabel": "Language",
+  "navDetails": "Go to details",
+  "showDetails": "Show details",
+  "@showDetails": {
+    "description": "Button label to show more details"
+  },
+  "hide_details": "Hide details",
+  "@hide_details": {
+    "description": "Button label to hide details"
+  },
+  "welcome": "Welcome !",
+  "@vehicles_list": {
+    "description": "Welcome message"
+  },
+  "theme": "theme",
+  "@theme": {
+    "description": "Label for specifying application theme"
+  },
+  "language_reset": "language reset to English (US)",
+  "@language_reset": {
+    "description": "Label for  Language reset to English (US)"
+  },
+  "language_changed_to": "language changed to",
+  "@language_changed_to": {
+    "description": "Label for  Language changed to"
+  },
+  "system_default": "system default",
+  "@system_default": {
+    "description": "Label for  system default"
+  },
+  "theme_changed_to": "theme changed to",
+  "@theme_changed_to": {
+    "description": "Label for  theme changed to"
+  },
+  "theme_reset_default": "theme reset to System Default'",
+  "@theme_reset_default": {
+    "description": "Label for  Theme reset to System Default'"
+  },
+  "reset_default_theme": "reset to system default theme'",
+  "@reset_default_theme": {
+    "description": "Label for  reset to system default theme'"
+  },
+  "cancel": "Cancel",
+  "apply": "Apply",
+  "retry": "retry"
+}

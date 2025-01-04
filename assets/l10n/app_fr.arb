@@ -1,0 +1,77 @@
+{
+  "nav_home": "Accueil",
+  "@nav_home": {
+    "description": "Label for the Home navigation destination"
+  },
+  "nav_settings": "Paramètres",
+  "@nav_settings": {
+    "description": "Label for the Settings navigation destination"
+  },
+  "nav_profile": "Profil",
+  "@nav_profile": {
+    "description": "Label for the Profile navigation destination"
+  },
+  "nav_search": "Rechercher",
+  "@nav_search": {
+    "description": "Label for the Search navigation destination"
+  }
+  ,
+  "details": "Détails",
+  "languageLabel": "Langue",
+  "navDetails": "Aller aux détails",
+  "showDetails": "Afficher les détails",
+  "@showDetails": {
+    "description": "Button label to show more details"
+  },
+  "hide_details": "Masquer les détails",
+  "@hide_details": {
+    "description": "Button label to hide details"
+  },
+  "location": "emplacement",
+  "@location": {
+    "description": "Label for specifying a place"
+  },
+  "latitude": "latitude",
+  "@latitude": {
+    "description": "Label for specifying latitude coordinate"
+  },
+  "longitude": "longitude",
+  "@longitude": {
+    "description": "Label for specifying longitude coordinate"
+  },
+  "welcome": "Bienvenue !",
+  "@vehicles_list": {
+    "description": "Welcome message"
+  },
+  "theme": "thème",
+  "@theme": {
+     "description": "Label for specifying application theme"
+   },
+  "language_reset": "langue réinitialisée en anglais (États-Unis)",
+  "@language_reset": {
+    "description": "Label for  Language reset to English (US)"
+  },
+  "language_changed_to": "Langue passée en ",
+  "@language_changed_to": {
+    "description": "Label for  Language changed to"
+  },
+  "system_default": "thème par défaut du système",
+  "@system_default": {
+    "description": "Label for  system default"
+  },
+  "theme_changed_to": "Theme par défaut appliqué",
+  "@theme_changed_to": {
+    "description": "Label for  theme changed to"
+  },
+  "theme_reset_default": "Thème par défaut du système)'",
+  "@theme_reset_default": {
+    "description": "Label for  Theme reset to System Default'"
+  },
+  "reset_default_theme": "retour au thème par défaut'",
+  "@reset_default_theme": {
+    "description": "Label for  Reset to System Default Theme'"
+  },
+  "cancel": "Annuler",
+  "apply": "Appliquer",
+  "retry": "réessayer"
+}
